@@ -20,7 +20,7 @@ function sumOfNumbers(arrayOfNumbers) {
 }  
   return total;
 }
- assignment.sumOfNumbers = sumOfNumbers;
+assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
@@ -41,7 +41,7 @@ function countEvenNumbers(arrayOfNumbers) {
   });  
   return count;
 }
- assignment.countEvenNumbers = countEvenNumbers;
+assignment.countEvenNumbers = countEvenNumbers;
 
 /**
  * Challenge - 3
@@ -64,7 +64,7 @@ function celsiusToFahrenheit(arrayOfNumbers) {
 }    
   return fahArray;
 }
- assignment.celsiusToFahrenheit = celsiusToFahrenheit;
+assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
 
 // ========================
